@@ -27,9 +27,9 @@ pollution patterns and city-wise comparisons.
 - Slicers: City | Year
 
 ## Project Status
-- [ ] Dataset downloaded
-- [ ] Data audit completed ✅
-- [ ] Excel cleaning done
+- [ ] Dataset downloaded (done)
+- [ ] Data audit completed (done)
+- [ ] Excel cleaning done(done)
 - [ ] Loaded into Microsoft Fabric
 - [ ] SQL queries written
 - [ ] Power BI dashboard built
