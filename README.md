@@ -78,7 +78,13 @@ Monsoon rains wash pollutants away.
 - Patna and Ahmedabad both hit maximum AQI of 500
 - On bad days, Ahmedabad's average AQI was 398 — 
   most severe among all cities
-
+### Year-wise National Trend
+- National Avg AQI dropped from 199 (2015) to 110 (2020)
+- Consistent year-on-year improvement even before COVID
+- 2020 lockdown caused sharpest single-year drop (143→110)
+- Note: Data coverage expanded from 1,775 days (2015) to 
+  6,915 days (2019) — more cities added over time, 
+  which may partially explain the declining average
 ### Critical Numbers
 - **3,675 days** recorded AQI above 300 (Very Poor/Severe)
 - **543 rows** had AQI exceeding 500 (impossible values — 
