@@ -71,6 +71,14 @@ in winter vs monsoon months. Winter cold air
 traps pollutants close to ground. 
 Monsoon rains wash pollutants away.
 
+- Delhi recorded 711 dangerous days (AQI > 300) — 
+  highest among all cities
+- 20 out of 26 cities experienced at least one 
+  dangerous pollution day
+- Patna and Ahmedabad both hit maximum AQI of 500
+- On bad days, Ahmedabad's average AQI was 398 — 
+  most severe among all cities
+
 ### Critical Numbers
 - **3,675 days** recorded AQI above 300 (Very Poor/Severe)
 - **543 rows** had AQI exceeding 500 (impossible values — 
