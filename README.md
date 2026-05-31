@@ -19,6 +19,13 @@ pollution patterns and city-wise comparisons.
 - Month-wise pollution patterns
 - AQI category distribution
 - Slicers: City | Year
+## 🔗 Live Dashboard
+[https://app.fabric.microsoft.com/links/idUCFOnUCs?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare]
+
+
+## 📸 Dashboard Preview
+<img width="941" height="521" alt="dashboard" src="https://github.com/user-attachments/assets/935c4131-2d3c-4381-80b6-9c5f27310b89" />
+
 
 ## Dataset Overview
 - **Source:** Kaggle (CPCB India)
